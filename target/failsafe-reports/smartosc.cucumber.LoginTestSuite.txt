@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: smartosc.cucumber.LoginTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.603 s <<< FAILURE! - in smartosc.cucumber.LoginTestSuite
+Sumup.Sumup  Time elapsed: 0.313 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'Auto open url https://www.lg.com/ca_en' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Given("Auto open url https:\\/\\/www.lg.com\\/ca_en")
+public void auto_open_url_https_www_lg_com_ca_en() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

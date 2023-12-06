@@ -1,0 +1,5 @@
+smartosc\hook\Setup.class
+smartosc\cucumber\LoginTestSuite.class
+smartosc\sumup\PLPStep.class
+smartosc\SerenityFirstTest.class
+smartosc\sumup\HomePageStep.class
